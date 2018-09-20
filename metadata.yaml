@@ -1,6 +1,11 @@
 _repo: Documentos-para-la-historia-del-virreinato-del-Rio-de-la-Plata-tomo-1_53421
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53421-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53421#Documentos-para-la-historia-del-virreinato-del-Rio-de-la-Plata-tomo-1
 gutenberg_issued: '2016-10-31'
 gutenberg_type: Text
 identifiers:
