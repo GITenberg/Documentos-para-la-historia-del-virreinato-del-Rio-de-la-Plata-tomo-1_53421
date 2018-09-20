@@ -1,0 +1,17 @@
+_repo: Documentos-para-la-historia-del-virreinato-del-Rio-de-la-Plata-tomo-1_53421
+_version: 0.0.1
+description: ''
+gutenberg_issued: '2016-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53421'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argentina -- History -- 1776-1810 -- Sources'
+- !lcc 'F2801'
+- GITenberg
+title: Documentos para la historia del virreinato del Rio de la Plata, tomo 1
+url: http://www.gutenberg.org/ebooks/53421
